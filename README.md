@@ -16,3 +16,5 @@ I learn a lot of stuff relate to data science skills.
 - Python programming
 - Essential Pythion for data analyst
 - Dashboard
+
+You can find me on LinkedIn https://www.linkedin.com/in/stayu-kasemsreesakul-3a4718260/
